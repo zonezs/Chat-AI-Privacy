@@ -17,9 +17,9 @@ For the purposes of this Privacy Policy:
 - **Account** means a unique account created for You to access our Service or parts of our Service.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-- **Application** refers to Chat AI Bot, the software program provided by the Company.
+- **Application** refers to Chat-AI, the software program provided by the Company.
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Chat AI Bot.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Chat-AI.
 
 - **Country** refers to: China
 
