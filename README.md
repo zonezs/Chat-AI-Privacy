@@ -152,4 +152,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: zonezs123@gmail.com
 
-- By visiting this page on our website: [https://github.com/zonezs/ChatGPT-Privacy](https://github.com/zonezs/ChatGPT-Privacy)
+- By visiting this page on our website: [https://zonezs.github.io/Chat-AI-Privacy](https://zonezs.github.io/Chat-AI-Privacy/)
